@@ -17,3 +17,4 @@ if (dadiLanciatiDalPlayer > dadiLanciatiDalComputer) {
 
 //if verifica la prima condizione
 //else if verifica una seoconda condizione
+//+ concatena varibili alle stringhe
