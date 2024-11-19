@@ -17,3 +17,8 @@ for (let i = 0; i < mail.length; i++) {
   }
 }
 console.log(message);
+
+//length calcolo lunghezza
+// prompt messaggio che richiede all'utente di eseguire un imput
+//i indice
+//++ incremento

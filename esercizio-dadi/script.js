@@ -10,9 +10,9 @@ let dadiLanciatiDalPlayer = Math.floor(Math.random() * 6) + 1;
 // + 1 perchè math random * 6 arrotonda a numeri da 1 a 5
 
 if (dadiLanciatiDalPlayer > dadiLanciatiDalComputer) {
-  console.log("vince il player con" + dadiLanciatiDalPlayer + "contro" + dadiLanciatiDalComputer + "del pc")
+  console.log("vince il player con " + dadiLanciatiDalPlayer + " contro " + dadiLanciatiDalComputer + " del pc ")
 } else if (dadiLanciatiDalComputer > dadiLanciatiDalPlayer) {
-  console.log("vince il computer con" + dadiLanciatiDalComputer + "contro" + dadiLanciatiDalPlayer + "del giocatore")
+  console.log(" vince il computer con " + dadiLanciatiDalComputer + " contro " + dadiLanciatiDalPlayer + " del giocatore ")
 }
 
 //if verifica la prima condizione
